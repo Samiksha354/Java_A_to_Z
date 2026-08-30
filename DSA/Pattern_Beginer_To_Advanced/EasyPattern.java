@@ -207,40 +207,40 @@ public class EasyPattern {
 
             DSA.Pattern_Beginer_To_Advanced.EasyPattern c1=new DSA.Pattern_Beginer_To_Advanced.EasyPattern();
 
-//            c1.pattern1(n);
-//            System.out.println();
-//
-//
-//            c1.pattern2(n);
-//            System.out.println();
-//
-//        c1.pattern3(n);
-//        System.out.println();
-//
-//
-//
-//        c1.pattern4(n);
-//        System.out.println();
-//
-//
-//        c1.pattern5(n);
-//        System.out.println();
-//
-//        c1.pattern6(n);
-//        System.out.println();
-
-//        c1.pattern7(n);
-//        System.out.println();
+            c1.pattern1(n);
+            System.out.println();
 
 
-//        c1.pattern8(n);
-//        System.out.println();
+            c1.pattern2(n);
+            System.out.println();
+
+        c1.pattern3(n);
+        System.out.println();
 
 
-//    c1.pattern9(n);
-//        System.out.println();
-//
-//    }
+
+        c1.pattern4(n);
+        System.out.println();
+
+
+        c1.pattern5(n);
+        System.out.println();
+
+        c1.pattern6(n);
+        System.out.println();
+
+        c1.pattern7(n);
+        System.out.println();
+
+
+        c1.pattern8(n);
+        System.out.println();
+
+
+        c1.pattern9(n);
+        System.out.println();
+
+
 
         c1.pattern10(n);
         System.out.println();
