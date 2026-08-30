@@ -35,9 +35,9 @@ public class RecurssionBasicsAndProblemSolving {
 
     public static void main(String []args){
         RecurssionBasicsAndProblemSolving r1=new RecurssionBasicsAndProblemSolving();
-//        r1.fun_names(1,5);
-//        r1.print1_n(1,100);
-//        r1.printn_1(10);
+        r1.fun_names(1,5);
+        r1.print1_n(1,100);
+        r1.printn_1(10);
         int a=r1.sumofn(10);
         System.out.println(a);
     }
