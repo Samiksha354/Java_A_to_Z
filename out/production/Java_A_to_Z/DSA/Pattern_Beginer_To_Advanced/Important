@@ -1,0 +1,4 @@
+1)for the outer loop, count the number of times
+2)for the inner loop , focus on the column and connect them somehow to the rows
+3)print them "*" inside the inner for loop
+4)Observe Symmetry (optional)
